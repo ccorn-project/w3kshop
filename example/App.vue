@@ -144,7 +144,7 @@ export default defineComponent({
 
       <WrapperBox
         class="cursor-x"
-        title="🔒 X-axis"
+        title=" Valamike"
         description="I can only be dragged horizontally (x-axis)."
         info='<Draggable axis="x">
     <div>X-Axis with component</div>
@@ -161,7 +161,7 @@ export default defineComponent({
 
       <WrapperBox
         class="cursor-y"
-        title="🔒 Y-axis"
+        title=" <3  Y-axis"
         description="I can only be dragged vertically (y-axis)."
         info='<Draggable axis="y">
     <div>Y-Axis with component</div>
@@ -680,7 +680,7 @@ body {
 
 .box {
   @apply bg-light-500;
-  border: 1px solid #999;
+  border: 1px solid #09e438;
   border-radius: 3px;
   width: 180px;
   height: 180px;
